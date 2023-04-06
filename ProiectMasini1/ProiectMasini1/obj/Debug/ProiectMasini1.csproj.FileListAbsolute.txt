@@ -1,0 +1,15 @@
+C:\Users\Ifrim Fanica\source\repos\ProiectMasini1\ProiectMasini1\bin\Debug\ProiectMasini1.exe.config
+C:\Users\Ifrim Fanica\source\repos\ProiectMasini1\ProiectMasini1\bin\Debug\ProiectMasini1.exe
+C:\Users\Ifrim Fanica\source\repos\ProiectMasini1\ProiectMasini1\bin\Debug\ProiectMasini1.pdb
+C:\Users\Ifrim Fanica\source\repos\ProiectMasini1\ProiectMasini1\obj\Debug\ProiectMasini1.csproj.AssemblyReference.cache
+C:\Users\Ifrim Fanica\source\repos\ProiectMasini1\ProiectMasini1\obj\Debug\ProiectMasini1.csproj.CoreCompileInputs.cache
+C:\Users\Ifrim Fanica\source\repos\ProiectMasini1\ProiectMasini1\obj\Debug\ProiectMasini1.exe
+C:\Users\Ifrim Fanica\source\repos\ProiectMasini1\ProiectMasini1\obj\Debug\ProiectMasini1.pdb
+D:\PIU\SQDWEFRGFVBFDREWR3REGFNB\ProiectMasini1.1\ProiectMasini1\ProiectMasini1\bin\Debug\ProiectMasini1.exe.config
+D:\PIU\SQDWEFRGFVBFDREWR3REGFNB\ProiectMasini1.1\ProiectMasini1\ProiectMasini1\bin\Debug\ProiectMasini1.exe
+D:\PIU\SQDWEFRGFVBFDREWR3REGFNB\ProiectMasini1.1\ProiectMasini1\ProiectMasini1\bin\Debug\ProiectMasini1.pdb
+D:\PIU\SQDWEFRGFVBFDREWR3REGFNB\ProiectMasini1.1\ProiectMasini1\ProiectMasini1\obj\Debug\ProiectMasini1.csproj.AssemblyReference.cache
+D:\PIU\SQDWEFRGFVBFDREWR3REGFNB\ProiectMasini1.1\ProiectMasini1\ProiectMasini1\obj\Debug\ProiectMasini1.csproj.SuggestedBindingRedirects.cache
+D:\PIU\SQDWEFRGFVBFDREWR3REGFNB\ProiectMasini1.1\ProiectMasini1\ProiectMasini1\obj\Debug\ProiectMasini1.csproj.CoreCompileInputs.cache
+D:\PIU\SQDWEFRGFVBFDREWR3REGFNB\ProiectMasini1.1\ProiectMasini1\ProiectMasini1\obj\Debug\ProiectMasini1.exe
+D:\PIU\SQDWEFRGFVBFDREWR3REGFNB\ProiectMasini1.1\ProiectMasini1\ProiectMasini1\obj\Debug\ProiectMasini1.pdb

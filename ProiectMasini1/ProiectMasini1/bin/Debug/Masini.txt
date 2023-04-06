@@ -1,0 +1,3 @@
+Marca;2000;20000;Culoare;True;
+Marca;3000;30000;Culoare;True;
+bmw;2009;2000;rosu;True;
